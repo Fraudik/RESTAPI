@@ -1,7 +1,7 @@
 flask
 flask_restful
 requests
-flaks_wtf
+flask_wtf
 wtforms
 datetime
 sqlalchemy

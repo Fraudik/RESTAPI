@@ -1,0 +1,10 @@
+flask
+flask_restful
+requests
+flaks_wtf
+wtforms
+datetime
+sqlalchemy
+flask_login
+gunicorn
+sqlalchemy_serializer
